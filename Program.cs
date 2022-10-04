@@ -15,7 +15,7 @@ namespace o
             
             if (DiasSemana == DayOfWeek.Sunday)
             {
-              Console.WriteLine($"Today is: {DayOfWeek.Sunday}");  
+              Console.WriteLine($"Hoje é : {DayOfWeek.Sunday}");  
             }
             else if (DiasSemana == DayOfWeek.Monday)
             {
