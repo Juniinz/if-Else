@@ -6,7 +6,7 @@ namespace o
     {
         static void Main(string[] args)
         {
-            var DiasSemana = DateTime.Now.DayOfWeek; 
+            var DiaSemana = DateTime.Now.DayOfWeek; 
 
               Console.WriteLine("");// Espaço
               Console.WriteLine("");// Espaço
